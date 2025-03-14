@@ -1,4 +1,4 @@
-import FileUploader from "@/components/ui/FileUploader";
+import FileUploader from "@/components/FileUploader";
 import React from "react";
 
 function UploadPage() {
